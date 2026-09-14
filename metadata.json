@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Website",
+  "description": "Architecture studio portfolio website with projects, furniture, spatial research, and studio admin editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

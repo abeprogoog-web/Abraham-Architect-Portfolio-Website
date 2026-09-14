@@ -1,0 +1,18 @@
+# abearchitectstudio
+
+Architecture, objects and spatial experiments — an independent design practice working between architecture and the object.
+
+## What this site offers
+- Design Anomaly: experimental architecture and spatial research (subtraction, displacement, folding, collision)
+- Design Furniture: objects and furniture understood as small architecture
+- Project detail pages with concept, design operations, transformation and project information
+- About page with practice statement and contact
+
+## Pages
+- / — home with selected works
+- /anomaly — Design Anomaly collection
+- /furniture — Design Furniture collection
+- /project/{slug} — project detail
+- /about — studio information
+
+Contact: studio@abearchitectstudio.com

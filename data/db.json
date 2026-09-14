@@ -1,0 +1,1396 @@
+{
+  "passcode_hash": "$2a$10$kuAsMwtZQMzeIGme5sm1IuQDoixRkPQT59I5rz2wpcezmXB6yWZs6",
+  "about": {
+    "intro": "Architectural designer working with form, tectonic logic, and physical objects.",
+    "bio": [
+      "Abraham Teguh Kusnardi is an architectural designer exploring how basic spatial questions shape both buildings and objects. His work spans architectural massing studies, furniture experiments, and competition projects, focusing on how a clear design move can define an entire form and the experience inside it.",
+      "Rather than chasing unusual shapes for their own sake, his process starts with tectonic logic—how materials behave, connect, and hold weight. This hands-on approach to structure directly informs his built projects, bridging conceptual explorations with practical construction."
+    ],
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Architectural Designer"
+      },
+      {
+        "label": "Focus",
+        "value": "Architecture, Furniture, Structural Logic"
+      },
+      {
+        "label": "Practice",
+        "value": "Independent Practice"
+      },
+      {
+        "label": "Education",
+        "value": "Bachelor Of Architecture"
+      }
+    ],
+    "email": "abearchitect@gmail.com",
+    "instagram": "@abearchitect"
+  },
+  "home_intro": {
+    "bg_image": "/api/uploads/a5fb32fb0a24454582fd925842ed495f.jpg",
+    "bg_position": "center"
+  },
+  "projects": [
+    {
+      "title": "Court Infinity Walk",
+      "slug": "subtracted-volume",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "An endless figure-eight promenade that twists over itself, creating an artificial hillside contour that frames dual sheltered courtyards.",
+      "concept": "Court Infinity Walk strips circulation down to pure continuous momentum. Conceived from the simple gesture of twisting a single loop into an infinity figure, the ramp produces an uninterrupted walking path that eliminates traditional beginnings and dead ends. As the deck banks and lifts over itself at the intersection, it behaves like an artificial hillside contour, gently tilting the body while constantly shifting the horizon. Below the rising deck, the massive structural base encloses sheltered perimeter walkways while carving out two open-air courtyards—one intimate and shaded beneath the elevated arch, the other broad and open to the sky.",
+      "question": "What happens when a path loops endlessly upon itself, transforming pedestrian movement into an artificial landscape contour?",
+      "operations": [
+        "Lemniscate Twisting",
+        "Grade Separation",
+        "Banked Curvature",
+        "Dual-Court Framing",
+        "Artificial Contouring",
+        "Monolithic Flyover"
+      ],
+      "transformation": "From a flat, closed circular plane into a three-dimensional continuous figure-eight. Elevating one axis over the other resolves circulation conflict, producing an undulating artificial hill above and a dramatic vaulted portal between two courtyards below",
+      "sections": [
+        {
+          "heading": "Alternating Orbits and Perceptual Renewal",
+          "text": "The figure-eight trajectory continuously resets the visitor’s orientation. Completing a clockwise loop around the first courtyard naturally reverses into a counter-clockwise sweep around the second upon crossing the threshold. This geometric switch, combined with the gentle rise and fall of the ramp, prevents the perceptual fatigue of a simple circle, keeping sightlines dynamic and inviting people to walk the loop again."
+        }
+      ],
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete (UHPC), fine-textured non-slip aggregate walking finish, recessed base lighting, integrated perimeter slit reveals.",
+      "construction": "Continuous post-tensioned double-curved hollow box-girder system; the elevated crossing functions as a rigid moment arch transferring torsional stresses down to the twin circular foundation rings.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/api/uploads/9d52bd9f28fe4fb68cf5f0c06fd887e2.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/9aa0af34dad745c6aecdf0df2350ff49.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/cc9930b13dd24acf906046d5fb11fb52.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/9d52bd9f28fe4fb68cf5f0c06fd887e2.jpg",
+      "published": true,
+      "featured": true,
+      "id": "c24f0e4c-5bb7-4f55-8003-2a4a6a894b5e",
+      "order": 0,
+      "created_at": "2026-09-12T12:50:14.795Z",
+      "cover_position": "center"
+    },
+    {
+      "title": "Laced Cylinder Mass",
+      "slug": "laced-cylinder-mass-2",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "Four staggered cylinders of ascending height bound by an uninterrupted ribbon ramp that sculpts shelter below and lookout points above.",
+      "concept": "The project translates a tactile design logic into permanent mass: four vertical cylinders are placed in an alternating zigzag pattern, ascending steadily from lowest to highest. A single continuous ribbon is drawn along their edges, weaving from one cylinder to the next to trace an uninterrupted climbing path. Rather than remaining an applied catwalk, the underside of this deck stretches down to the earth in smooth hyperbolic fillets. This operation fuses structural support and pedestrian circulation into a single monolithic topography—carving shaded alcoves at the ground plane while guiding the visitor toward an elevated belvedere at the highest drum.",
+      "question": "What happens when a ramp ceases to be a bridge between columns and instead becomes the thread that ties the mass together?",
+      "operations": [
+        "Zigzag Staggering",
+        "Height Progression",
+        "Ribbon Lacing",
+        "Hyperbolic Fillet",
+        "Undercroft Carving",
+        "Belvedere Termination"
+      ],
+      "transformation": "From four static, isolated vertical drums into an interconnected spatial armature. The upward pull of the walking ribbon deforms the rigid cylinders, pulling their structural skins down to the ground plane to create enclosed pockets beneath and open platforms above.",
+      "sections": [
+        {
+          "heading": "Geometric Stringing and Alternating Balance",
+          "text": "Staggering the four cylinders along a zigzag line provides innate lateral bracing. As the walking ribbon weaves through the sequence, each reverse curve counteracts the torsional pull of the preceding span. The controlled progression of heights turns what would be an arbitrary zig-zag into a continuous, climbing journey that balances physical forces and choreographs sightlines simultaneously."
+        }
+      ],
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete (UHPC), sand-blasted non-slip aggregate walking surface, concealed linear edge drainage, recessed stainless-steel balustrade with integrated handrail lighting.",
+      "construction": "In-situ concrete cylindrical cores acting as shear anchors; continuous post-tensioned UHPC deck cast with double-curved CNC-milled EPS formwork to form monolithic transitional flared fillets.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/api/uploads/30b0b974c28e4e4ca85d7bf713bfb2bd.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/322540415c22428caabb44975fcbd5ac.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/a6c46bbb551a4f05b1fc444c5cadb00d.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/dee9da7690bd4938ba72b1043624dced.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/c8eaf064b9034c88a148f529f62d2d88.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/e00f65ff63fb440a85952feaa2bb32a1.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/30b0b974c28e4e4ca85d7bf713bfb2bd.png",
+      "published": true,
+      "featured": true,
+      "id": "7dade183-45ff-44a1-ba60-999e5c022b0a",
+      "order": 1,
+      "created_at": "2026-09-12T12:50:14.795Z",
+      "cover_position": "center"
+    },
+    {
+      "title": "V-Threshold Gallery",
+      "slug": "v-threshold-gallery-2",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A tilted circular disc incised and folded upward into a triangular crest, carving dual spatial realms without wasting a single plane of material.",
+      "concept": "The project investigates the spatial and material efficiency of zero-subtraction sheet folding. Starting with a pure, inclined circular plane, an internal triangular slit is made and its vertex lifted upward. This single mechanical action eliminates dead space and generates two distinct architectural conditions from one continuous surface: an intimate, compressed ring hovering close to the ground, and a soaring, light-filled central gallery that frames an open sky-oculus around a solitary tree.",
+      "question": "What happens when a single sheet of roof cuts and folds itself to become both shelter and sky?",
+      "operations": [
+        "Disc Tilting",
+        "Geometric Incision",
+        "Flap Lifting",
+        "Folded Plate Stiffening",
+        "Spatial Compression/Release",
+        "Oculus Carving"
+      ],
+      "transformation": "From a single planar disc into an inclined, active envelope. The triangular incision and upward lift cleave the homogenous surface into two complementary volumes: a low-slung, horizon-facing perimeter and a soaring inner threshold framing living nature",
+      "sections": [
+        {
+          "heading": "The Zero-Waste Cut",
+          "text": "By avoiding additive or subtractive volume logic, the design operates strictly through incision and inflection. The triangular cut does not discard matter; rather, lifting the tip transforms the flat boundary into an expansive vertical threshold. The perimeter edge remains anchored to the tilted slope, ensuring that every square meter of the original circle participates actively in defining interior envelope or sheltered terrace."
+        }
+      ],
+      "material": "Matte-coated stressed-skin structural steel shell, ultra-clear structural silicone-glazed triangular curtain wall, slender solid steel pin columns, integrated circular gravel lightwell base.",
+      "construction": "Zero-waste folded plate mechanism; stressed-skin steel diaphragm frame where the base fold acts as a primary torque-transfer hinge, lifting a self-stiffening triangular canopy over a perimeter ring supported by lightweight pinned props.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/api/uploads/1239a38573d9434aa7cdc5232d06205d.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/e131b37f2e1443f4855d545af698b038.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/bc4603babe7c47fea8fedab6f145fc74.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/2fb45e15f5e242559c583a4039ccbf0c.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/40e86458abe844c0812ae0479b441e98.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/1239a38573d9434aa7cdc5232d06205d.png",
+      "published": true,
+      "featured": true,
+      "id": "8794bcd1-6b18-4493-a245-566d4a1929ad",
+      "order": 2,
+      "created_at": "2026-09-12T12:50:14.795Z",
+      "cover_position": "center"
+    },
+    {
+      "title": "Manta Surge",
+      "slug": "manta-surge",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A monolithic fluid canopy sweeping upward like an emerging manta ray, draping over archetypal gabled pavilions to compress and release threshold spaces.",
+      "concept": "Manta Surge explores the dialogue between an overarching, hydrodynamic megastructure and the intimate scale of domestic archetypes. Taking inspiration from the undulating glide of a manta ray rising toward the ocean surface, a single continuous sheet sweeps across the landscape. Rather than floating above as a detached roof, the surface physically billows over three discrete gabled pavilions, dipping into steep catenary valleys between them. This produces a dramatic spatial rhythm: cavernous release above the gables and intensely compressed, glowing interstitial thresholds in the dips, uniting separate micro-buildings into a single monumental terrain.",
+      "question": "What happens when a roof refuses to be flat and instead drapes like a living mantle, turning the gaps between houses into the primary spatial event?",
+      "transformation": "From three isolated, static gabled pavilions into an interconnected macro-topography. The fluid sheet surges over the ridges and plunges between the gaps, deforming the conventional boundary between roof, wall, and ground plane.",
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete (UHPC) thin shell, dark cast basalt/slate masonry for the pavilion gables, bronze-trimmed threshold portals, continuous recessed linear ground uplighting.",
+      "construction": "Continuous double-curved post-tensioned thin shell; three rigid reinforced concrete gable pavilions serve as primary compression piers and shear cores, while the flared side wingtips anchor directly into deep tension-tie foundations to counteract outward horizontal thrust.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Surface Draping",
+        "Hydrodynamic Flaring",
+        "Archetype Encasement",
+        "Catenary Compression",
+        "Inverted Vaulting",
+        "Thrust Grounding"
+      ],
+      "sections": [
+        {
+          "heading": "The Rhythm of Peaks and Catenary Valleys",
+          "text": "The spatial tension of the project is generated entirely by vertical modulation. Over each pavilion, the shell peaks to accommodate the familiar domestic gable. In the intervals between them, the material drops within inches of the floor, creating compressed, glowing slits of light. Visitors move through alternating atmospheres—from enclosed shelter to expansive public ground—guided by the gentle swell and dip of the overhead mass."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/3499ad944aa14a2ebc8d8f48b4253916.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/972b1273cfac4235ad4336c0310632a3.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/9036647f53be4586a174ea07691237a4.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/5398153b85bc4d509b8a72aaede83b9e.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/936af21181124f9faa5e2d4d10970e60.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/a974109ee4e94125b1b821b43391e614.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/3499ad944aa14a2ebc8d8f48b4253916.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "83b4c91d-5927-41ab-88df-29471ab5231c",
+      "order": 3,
+      "created_at": "2026-09-12T12:52:00.000Z"
+    },
+    {
+      "title": "Continuum of Passage",
+      "slug": "continuum-of-passage",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2024",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A serpentine linear extrusion that twists and coils into a quiet spiral belvedere surrounding a central oculus.",
+      "concept": "Continuum of Passage treats architecture as an unfolding sequence of movement rather than a static enclosure. Beginning at the ground as a sharp, roof-like profile, the mass snakes through the site in a sweeping S-curve, twisting and lifting as it progresses. Along its curved flanks, continuous horizontal louvres filter light into the sheltered interior while lending tectonic scale to the exterior shell. The open deck on top guides visitors along this ascending wave until the linear momentum gently folds into an introspective spiral, slowing the journey and focusing the experience around an open central void.",
+      "question": "What happens when a passage refuses to arrive at a building, but instead coils inward to become the destination itself?",
+      "transformation": "From a simple extruded roof profile into a continuous, climbing spatial ribbon. The linear path deforms into a sweeping serpentine gesture, eventually tightening into a spiral core that transitions the experience from outward exploration to inward reflection.",
+      "material": "Monolithic off-white Ultra-High-Performance Concrete (UHPC), integrated cast-in horizontal louvre fins, fine sand-blasted non-slip deck finish, concealed linear step lighting, continuous slender steel-rod balustrade.",
+      "construction": "Variable-section post-tensioned concrete shell; exterior horizontal fins serve as integral structural stiffeners against torsional shear, anchoring into a rigid cylindrical shear core that forms the spiral void.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Linear Extrusion",
+        "Profile Morphing",
+        "S-Curve Undulation",
+        "Horizontal Striation",
+        "Coiled Volute",
+        "Oculus Framing"
+      ],
+      "sections": [
+        {
+          "heading": "The Morphing Profile and Striated Flanks",
+          "text": "The journey starts at grade as an extruded pointed prism. As the structure glides forward, its cross-section warps and expands, shifting from a barrier into a dual-level volume—an open-air deck above and a shaded passage below. The horizontal ribs wrapping the exterior are not merely aesthetic; they function as continuous stiffening flanges that brace the thin curved concrete shell against lateral wind loads and torsional deformation."
+        },
+        {
+          "heading": "Spatial Deceleration and the Spiral Core",
+          "text": "Where the serpentine path accelerates movement, the terminal spiral acts as a spatial brake. The deck wraps closely around a cylindrical oculus, cutting off distant panoramas and drawing the visitor’s focus downward and inward. Movement slows down naturally, turning the final platform into a sheltered contemplative clearing open to the sky and weather."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/cc8908d683ff4c70b9fe4f394ee289c7.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/4b5416e725394e10bf9e95b281d10bfc.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/e317af76f32a423db08b88c539356874.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/4a63d8d912da418f9f97102a2cd84156.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/7b466237a47b4a988211953807266b6d.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/cc8908d683ff4c70b9fe4f394ee289c7.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "94c8e71b-6831-40ef-97cc-58193fe4109f",
+      "order": 4,
+      "created_at": "2026-09-12T12:53:00.000Z"
+    },
+    {
+      "title": "Pinched Kitchen Island",
+      "slug": "pinched-kitchen-island",
+      "world": "furniture",
+      "category": "Furniture",
+      "year": "",
+      "location": "",
+      "role": "",
+      "summary": "",
+      "concept": "",
+      "question": "",
+      "transformation": "",
+      "material": "",
+      "construction": "",
+      "status": "",
+      "operations": [],
+      "sections": [],
+      "images": [
+        {
+          "url": "/api/uploads/f0d500cece154ff6a9af601e2a2de07c.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/f8a3529c685d4e868627a1e9e28761b6.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/74e7f5429eee4bb1aa98a9ad459ed991.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/044cd0b6bbeb41b5ae7f5e5c80ccf257.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/8075fa1a5a794d62aafa90e97d6ff757.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/969089fa09094fec9d2aa10f98f69b56.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/f0d500cece154ff6a9af601e2a2de07c.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "b6d294ac-2015-4b19-98ea-64bdac04c337",
+      "order": 5,
+      "created_at": "2026-09-14T08:01:55.740Z"
+    },
+    {
+      "title": "Crashed Paper Church",
+      "slug": "crashed-paper-church",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "Two sliding planes colliding and buckling upward into an elastic arch, carving a soaring sacral nave from sheer lateral compression.",
+      "concept": "The project translates an intuitive tabletop paper study into monumental sacral architecture. Two sheets sliding across the ground plane meet head-on, buckling upward under lateral compression into a continuous elastica curve. Where the two sheets collide at the crest, a razor-sharp vertical ridge is born. The resulting cavernous void beneath reconstructs the traditional gabled church nave without relying on internal columns. Flanked by deep-set rectangular punctures that diffuse grazing daylight along the inner curvature, the interior naturally lifts the congregation's gaze upward, while the parabolic end-portals frame entry through a delicate structural cross.",
+      "question": "What happens when a sacred sanctuary is not built from stacked masonry, but born from the elastic buckling of the ground itself?",
+      "transformation": "From two separate horizontal sheets resting passively on the ground plane into a singular, self-supporting sacred envelope. Lateral collision forces the planes to peel off the grade, merging wall and roof into an uninterrupted vertical prayer hall.",
+      "material": "Monolithic fair-faced white concrete shell, deep-set window reveals, ultra-clear frameless structural glass, matte stainless-steel cross mullion, subterranean post-tensioned foundation ties.",
+      "construction": "In-situ curved concrete shell assembly leaning along a continuous apex compression hinge; lateral base thrust resisted underground via post-tensioned high-strength steel tie-rods linking continuous strip footings.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Lateral Sliding",
+        "Elastic Buckling",
+        "Apex Collision",
+        "Catenary Vaulting",
+        "Deep-Set Puncturing",
+        "Ground Tangency",
+        "Structural Cross Mullion"
+      ],
+      "sections": [
+        {
+          "heading": "Elastica Curvature and the Subterranean Tie",
+          "text": "The hall’s profile mirrors the physical mechanics of an elastica—a thin planar surface bending under opposing edge forces. By leaning against each other along the apex, the two concrete shells form a mutual compression arch. To preserve the paper-thin elegance where the shell meets the ground tangent to the floor, all lateral thrust forces are contained invisibly beneath the nave floor through tensioned tie-rods, keeping the main hall soaring and unobstructed."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/e1916c04ecc7410a870654a0f107174d.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/b5436407e79f428fb3ee5980f832ff7e.png",
+          "caption": "",
+          "ratio": "auto",
+          "crop": false,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "same",
+          "mobileCrop": false,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/26da2be9d5cd448581eed0d8877d81f2.png",
+          "caption": "",
+          "ratio": "auto",
+          "crop": false,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "same",
+          "mobileCrop": false,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/f563595694dc49a8a29725f3d0ab0853.png",
+          "caption": "",
+          "ratio": "auto",
+          "crop": false,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "same",
+          "mobileCrop": false,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/19eae7973c4340d882ceb5d9d9114c59.png",
+          "caption": "",
+          "ratio": "auto",
+          "crop": false,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "same",
+          "mobileCrop": false,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/5fc125bd29c24f6d9ff63103d1b7e109.png",
+          "caption": "",
+          "ratio": "auto",
+          "crop": false,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "same",
+          "mobileCrop": false,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/e1916c04ecc7410a870654a0f107174d.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "5aa4d491-1e49-4a89-9b05-0184fcd1948c",
+      "order": 6,
+      "created_at": "2026-09-14T11:26:28.392Z"
+    },
+    {
+      "title": "Between the Pages",
+      "slug": "between-the-pages",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A stack of architectural strata that delaminates and curls upward, transforming the interstitial voids between turned pages into habitable space.",
+      "concept": "The project translates the physical anatomy of a book into spatial reality. Rather than treating mass as an opaque monolith, the volume is conceived as an accumulated stack of horizontal planes. At one edge, these strata sit densely packed like stepped reading terraces; moving inward, they delaminate, peel apart, and lift into a soaring, continuous loop. The architectural experience does not exist in the solid plates, but in the interstitial voids carved between them—an unfolding sequence of sheltered undercrofts, viewing decks, and reading alcoves where daylight filters through layered horizons.",
+      "question": "What happens when a building is no longer an enclosed box, but an open book whose turning leaves sculpt the void?",
+      "transformation": "From a dense horizontal stack of planar leaves into a fluid three-dimensional landscape. As the layers unbind from the structural spine, the upper planes lift to form a sheltering canopy while the lower tiers cascade into terraced public seating.",
+      "material": "Off-white Ultra-High-Performance Concrete (UHPC) thin-plate strata, recessed floor-to-ceiling frameless glass curtains, slender brushed-steel pin columns, integrated step-terrace pavers.",
+      "construction": "Monolithic shear-wall core forming the structural \"book spine\" anchor; cantilevered post-tensioned floor slabs that delaminate and curl upward into thin-shell canopies, stabilized by vertical pin props.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Stratification",
+        "Delamination",
+        "Sheet Folding",
+        "Cantilever Fanning",
+        "Interstitial Habitation",
+        "Spine Anchoring"
+      ],
+      "sections": [
+        {
+          "heading": "The Binding Spine and Delaminating Slabs",
+          "text": "The rear of the building functions precisely like a book’s binding: a heavy, consolidated shear core that anchors the structure. From this solid spine, thin concrete plates project forward. As they extend outward, the layers delaminate and fan out in elevation. The upper leaves curl into a self-stiffening arch, transferring loads back into the spine while relying on minimal steel needle columns to preserve a sense of weightlessness."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/5dd139fc807043b4aa06f022e815c7d1.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/2f43436eab14416b906dde6124dbf05c.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/19d18a13b878496d911183d2aeab6255.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/eb44b881a2be4ab38ef94e8a36b02ec3.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/2fcd7e99fead46b6b4660c7c38c5e1a8.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/6f9716fbb3a24d9d99a39ba6d29a78f9.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/5dd139fc807043b4aa06f022e815c7d1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "b10f1363-f4b3-4a37-91b9-3eeeeaebd825",
+      "order": 7,
+      "created_at": "2026-09-14T11:29:58.518Z"
+    },
+    {
+      "title": "Yielding Mass",
+      "slug": "yielding-mass",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A rigid architectural block that yields plastically under the implied weight of a colossal diagonal staircase, carving a canyon-like ascent to the roof.",
+      "concept": "Yielding Mass inverts the traditional structural hierarchy between a building and its vertical circulation. In standard architecture, the host building is the rigid support that passively carries a lightweight stair. Here, the staircase is treated as a dense, heavy instrument—slicing down into the building volume like a weighted blade into clay. Under this localized pressure, the flat roofline and the rational facade sag and deform into catenary curves. This plastic displacement visibly warps the adjacent window grid, capturing the mechanical force of movement and turning an outdoor staircase into an intimate architectural canyon that delivers visitors onto the open rooftop plateau.",
+      "question": "What happens when circulation ceases to be an element supported by the building and instead behaves as a heavy mass that deforms it?",
+      "transformation": "From a rigid Cartesian block with an orthogonal window grid into a plastically deformed mass. The diagonal insertion of the stair exerts an implied structural load, pulling down the roof parapet and curving the facade into a sheltered threshold.",
+      "material": "Monolithic self-compacting architectural concrete (SCC) with a satin-smooth finish, warped aluminum window cassettes, ultra-clear frameless glazing, slip-resistant precast stair treads.",
+      "construction": "In-situ post-tensioned concrete shear walls and slabs cast against double-curved CNC-milled EPS formwork liners; the inclined stair acts as a post-tensioned rigid spine transferring diagonal axial thrust directly between the ground foundation and the rooftop slab.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Plastic Yielding",
+        "Gravitational Indentation",
+        "Facade Warping",
+        "Canyon Carving",
+        "Grid Distortion",
+        "Roof Deflection"
+      ],
+      "sections": [
+        {
+          "heading": "The Inhabited Crevasse and Rooftop Arrival",
+          "text": "The ascent offers a deliberate shift in spatial scale. Beginning as an exposed flight rising along the exterior facade, the path gradually slips into the building’s deformed core. As visitors near the top, the sagging concrete walls flank the stair on both sides, creating a compressed, wind-sheltered crevasse that narrows the sky above before opening out onto the vast, level plateau of the roof."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/1709c0bf10ce43fba52d71ae1d4264ba.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/c4a467526bfe4515b289f8c1204272ef.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/3686f5d1e30e4864a23e1e4d1c563beb.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/2462b5e5380d4ea78a87c26decb4859f.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/197183e894fd4bf8af94c12cc850823c.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/6af1c5c25e5047539c7d2331235fb24a.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/29998f9cc914462cb869a03efad96654.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/1709c0bf10ce43fba52d71ae1d4264ba.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "257f87af-4488-4558-87ef-b459e8dabb95",
+      "order": 8,
+      "created_at": "2026-09-14T11:36:20.979Z"
+    },
+    {
+      "title": "Tied Box",
+      "slug": "tied-box",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A monolithic rational cube cinched along its midsection by an implied external band, bulging like pinched clay to reveal a continuous panoramic sky-terrace.",
+      "concept": "The project explores the plastic deformation of a rigid architectural mass subjected to concentrated radial tension. Taking inspiration from the tactile tension of a cord cutting into a block of moist clay—or a tight ring compressing the skin of a finger—a conventional multi-story block is bound around its waist. This inward compression forces the monolithic, punched-window envelope to yield and swell, transitioning smoothly into a recessed perimeter gallery. Instead of carving away mass through conventional subtraction, the constriction physically displaces the volume, creating a sheltered observation belt where the interior and exterior converge between two swollen architectural lips.",
+      "question": "What happens when an architectural envelope is not cut or subtracted, but cinched by an invisible external pressure?",
+      "transformation": "From a rigid Cartesian block with a uniform grid of punched apertures into a plastically responsive volume. A circumferential cinch squeezes the midriff inward, displacing the upper and lower masses into soft bulging contours that shelter a transparent horizontal threshold.",
+      "material": "Monolithic fair-faced self-compacting concrete (SCC) with a satin clay-like finish, recessed continuous structural glazing with low-iron glass, flush stainless steel floor transition trims.",
+      "construction": "Central reinforced concrete shear-wall core acting as the primary vertical and lateral load-bearing spine; two-way post-tensioned cantilevered floor slabs above and below the constriction; exterior curved fillets formed via high-density CNC-milled foam liners.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Circumferential Constriction",
+        "Plastic Yielding",
+        "Fillet Lofting",
+        "Facade Recessing",
+        "Belt Delamination",
+        "Core Cantilevering"
+      ],
+      "sections": [],
+      "images": [
+        {
+          "url": "/api/uploads/ed05fd51da214b1b9d66c68ea3459f09.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/b7042db0a1da494da5b6eb6e8d6ff0da.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/a5b03214015841e7a07bd4915c9144d1.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/e91ddc5f3940415aa9d701d6042efba6.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/523154f0a66048eda82f5257c9879756.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/ed05fd51da214b1b9d66c68ea3459f09.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "669a716c-82c8-4c7a-9c12-84f53db72683",
+      "order": 9,
+      "created_at": "2026-09-14T11:37:54.257Z"
+    },
+    {
+      "title": "Dislocated Hexscape",
+      "slug": "dislocated-hexscape",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A modular hexagonal ground plane disrupted by vertical displacement, turning an ordinary floor into an undulating landscape of sunken forums and lifted shelters.",
+      "concept": "Rather than erecting vertical mass atop a passive site, Dislocated Hexscape interrogates the boundary between paving, topography, and enclosure. The project begins with a universal hexagonal grid—traditionally flat, stable, and neutral. By introducing localized vertical faults, this rigid datum fractures: select cells drop to form intimate sunken conversation pits, others tilt into accessible ramps, and specific modules lift overhead to serve as protective canopies. The architecture is not placed onto the landscape; it is excavated and extruded directly from the floor plane itself, proving that space can emerge simply by disturbing what we walk upon.",
+      "question": "At what point does a flat floor cease to be merely walked upon and begin to enclose space?",
+      "transformation": "From a uniform, two-dimensional pavement grid into a three-dimensional civic terrain. Controlled vertical offsets rupture the homogenous ground, yielding tiered gathering amphitheaters below grade and floating shaded alcoves above.",
+      "material": "Precast Ultra-High-Performance Concrete (UHPC) paver slabs with an acid-etched matte finish, integrated perimeter slot drainage along hexagonal seams, subterranean structural glass clerestories, cast-in-place stepped retaining plinths.",
+      "construction": "Prefabricated modular hexagonal plate system supported by a subterranean concrete foundation grid; sunken clusters act as reinforced retaining basins while lifted slabs cantilever from central shear pedestals to form self-supporting canopies.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Hexagonal Tessellation",
+        "Tectonic Faulting",
+        "Vertical Displacement",
+        "Plane Tilting",
+        "Subterranean Excavation",
+        "Slot Cleaving",
+        "Stepped Terracing"
+      ],
+      "sections": [
+        {
+          "heading": "The Fractured Tessellation",
+          "text": "The hexagonal geometry provides an isotropic network that distributes lateral loads evenly in multiple directions. When the grid undergoes faulting, each displaced cell maintains structural and visual dialogue with its neighbors. The gaps created along the vertical shear lines do not sever continuity; instead, they become flush structural glass ribbons that introduce natural daylight into the undercrofts, while recessed joints double as linear slot drains directing runoff into hidden subsurface retention beds."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/7e358904e0694849b7d54055fc44af99.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/80e2c583dfda47f3a2e7897009de37a9.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/93a93bf37cba443383d2b50c3a9322d4.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/31d901e6387f479fa057f718edfe83cc.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/29043797cd904ec08ba1f3d669b52e64.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/8ec13b5354864fe496b5706f306622a3.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/742c82c0a2bb4be7aaa19f682e9d6f34.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/5c0b74fb575a47259e93c979c0189183.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/7e358904e0694849b7d54055fc44af99.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "e4a879ae-1eba-4162-a672-0bb997210d48",
+      "order": 10,
+      "created_at": "2026-09-14T11:45:25.654Z"
+    },
+    {
+      "title": "Flow to Form",
+      "slug": "flow-to-form",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "Two converging paths that deform the ground into an ascending loop, allowing circulation to generate the architectural enclosure.",
+      "concept": "The architecture emerges entirely from movement; circulation is not applied to a pre-existing volume, but physically generates it. Two linear approach paths converge at a central threshold where the visitor is presented with a fundamental spatial choice: slip directly into the sheltered interior beneath, or follow the peeling ground plane as it lifts upward into an inclined ramp. As this surface rises and banks, it reveals the central circular core not as a monumental object, but as an open void discovered gradually through the rhythm of walking. Form is not decided in advance; it is shaped by the flow of the body through space.",
+      "question": "What happens when a path stops traversing a building and instead peels off the ground to generate it?",
+      "transformation": "From two level linear walkways into an intersected spatial node. The surface splits at the junction: one datum remains grounded to anchor the threshold, while the other twists and rises into an elevated closed loop that doubles as an open promenade and a habitable undercroft.",
+      "material": "Precast Ultra-High-Performance Concrete (UHPC) shell, sandblasted non-slip aggregate walking surface, recessed thermally broken ribbon glazing with structural silicone joints, concealed transverse elastic joint sealants.",
+      "construction": "Precast segmental hollow box-girder assembly; modular curved segments joined with epoxy shear keys and tensioned longitudinally through internal unbonded post-tensioning tendons, transferring torsion across the central landing to twin ground abutments.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Bifurcated Convergence",
+        "Ground Peeling",
+        "Banked Looping",
+        "Box-Girder Enclosure",
+        "Oculus Framing",
+        "Progressive Reveal"
+      ],
+      "sections": [
+        {
+          "heading": "The Bifurcated Threshold",
+          "text": "Movement begins along two separate approach arms that collect visitors from opposite vantages. Upon meeting at the central landing, the architecture splits into a dual spatial condition: one immediate and grounded, the other gradual and elevated. By allowing the walking plane to peel away from the grade rather than simply bridging across it, the arrival node becomes a moment of conscious deceleration where the visitor chooses between entering the sheltered core or taking the climbing panoramic loop."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/d8c5b2c734a14d878ab4f7c7f992d942.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/a09c05f51110465b86978c306dca8933.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/1c41802a133c437aa794fcb1c5d7c90d.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/723974a94f3a4c8fbd14e67db8d107e7.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/4f942a56ec2145aba18fbd7829e45e8f.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/ec5efe1dd7b74a5db6b47e73ca3fbfd8.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/43c4f6c4f3a244fcaba682badef336cc.jpg",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/d8c5b2c734a14d878ab4f7c7f992d942.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "9810e23f-f0bd-483d-9b0a-e17a7bd6ba12",
+      "order": 11,
+      "created_at": "2026-09-14T11:58:58.946Z"
+    },
+    {
+      "title": "Extruded Wound",
+      "slug": "extruded-wound",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A monolithic pitched volume sliced along its corner by an extruded incision, carving an entrance threshold below and an elevated sanctuary above.",
+      "concept": "Extruded Wound reconsiders the architectural opening not as a flat window punched into a wall, but as a three-dimensional spatial cut through solid mass. An archetypal, steep-pitched volume is subjected to a singular, angular incision along its primary corner. Rather than weakening the structure, this surgical cut disengages the surface to produce two distinct human scales: a grounded portal at grade that draws visitors into the cool interior, and an elevated loggia carved directly into the roof slope. The building maintains a mute, monolithic presence from the exterior, while the \"wound\" reveals the protective depth of the shelter within.",
+      "question": "What happens when an opening is no longer a window punched in a wall, but a deep spatial incision that cleaves roof and threshold simultaneously?",
+      "transformation": "From a mute, closed pitched volume into an inhabited sculpted mass. An extruded geometric profile cuts through the corner, cleaving the solid envelope to generate an entrance cave at the base and a sheltered belvedere nested within the roofline.",
+      "material": "Monolithic fair-faced insulating concrete (Dämmbeton) with an acid-etched mineral aggregate finish, dark patinated bronze throat flashing, concealed pedestal drainage along the loggia floor, structural low-iron frameless glass.",
+      "construction": "Single-leaf monolithic load-bearing insulating concrete cast against fine-sawn timber formwork; the upper carved loggia acts as a concealed structural transfer box, diverting sloping roof gravity loads around the aperture directly down into the flank shear walls.",
+      "status": "Concept & structural feasibility study",
+      "operations": [
+        "Monolithic Lofting",
+        "Angular Incision",
+        "Extruded Subtraction",
+        "Corner Filleting",
+        "Threshold Carving",
+        "Sloped Loggia Framing"
+      ],
+      "sections": [
+        {
+          "heading": "The Incision as a Spatial Instrument",
+          "text": "Traditional openings are two-dimensional perforations framed by walls. Here, the aperture is generated by an extruded profile that removes mass across multiple planes at once. By slicing through both the vertical facade and the steep roof pitch, the incision creates an ambiguous threshold that is neither fully interior nor completely exposed, giving tangible depth to the act of looking out."
+        }
+      ],
+      "images": [
+        {
+          "url": "/api/uploads/7d5c20387830474d873b88bc8c7e6334.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        },
+        {
+          "url": "/api/uploads/270d38f153f4466eb0540aef0e6ac6de.png",
+          "caption": "",
+          "ratio": "portrait",
+          "crop": true,
+          "position": "center",
+          "zoom": 1,
+          "mobileRatio": "fullscreen-mobile",
+          "mobileCrop": true,
+          "mobilePosition": "center",
+          "mobileZoom": 1
+        }
+      ],
+      "cover": "/api/uploads/7d5c20387830474d873b88bc8c7e6334.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "id": "51da6237-6613-4a14-a863-d4bda7bc31df",
+      "order": 12,
+      "created_at": "2026-09-14T12:10:03.471Z"
+    }
+  ]
+}
